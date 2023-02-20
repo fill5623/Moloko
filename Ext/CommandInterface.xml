@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CommandInterface xmlns="http://v8.1c.ru/8.3/xcf/extrnprops" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.13">
+	<SubsystemsOrder>
+		<Subsystem>Subsystem.УчётТоваров</Subsystem>
+		<Subsystem>Subsystem.ОказаниеУслуг</Subsystem>
+		<Subsystem>Subsystem.Бухгалтерия</Subsystem>
+		<Subsystem>b356c0da-a92d-4c7e-bcdf-3e14208b86dc</Subsystem>
+		<Subsystem>e6b35a62-0197-407b-a0a6-402aea2ce4d1</Subsystem>
+	</SubsystemsOrder>
+</CommandInterface>
